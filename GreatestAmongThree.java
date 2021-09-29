@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//jenkins project modification
 public class GreatestAmongThree {
 	void compare() 
 	
